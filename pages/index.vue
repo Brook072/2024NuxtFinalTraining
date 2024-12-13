@@ -4,7 +4,7 @@
     type="button"
     class="btn btn-primary"
   >
-    Base class
+    Base class test
   </button>
   {{ latestNews }}
 </template>
